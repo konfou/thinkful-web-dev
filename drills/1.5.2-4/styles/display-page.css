@@ -1,0 +1,35 @@
+main {
+  font-size: 0;
+}
+
+.container {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.box {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.inner-2 {
+  width: 50%;
+  height: 200px;
+}
+
+.inner-3 {
+  width: 33.33%;
+  height: 300px;
+}
+
+.green  { background-color: green; }
+.blue   { background-color: blue; }
+.grey   { background-color: grey; }
+.black  { background-color: black; }
+.orange { background-color: orange }
