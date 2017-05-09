@@ -31,12 +31,12 @@ Array basics drills. [[js](2.4.2/arrayBasics.js)]
  * Adding array items [[jsbin](https://jsbin.com/xuhepu/edit?js,console)]
  * Accessing array items [[jsbin](https://jsbin.com/mevapu/edit?js,console)]
  * Array length and access [[jsbin](https://jsbin.com/piquhil/edit?js,console)]
- * Array copying I [[jsbin]()]
- * Array copying II [[jsbin]()]
- * Squares with map [[jsbin]()]
- * Sort [[jsbin]()]
- * Filter [[jsbin]()]
- * Find [[jsbin]()]
+ * Array copying I [[jsbin](https://jsbin.com/gocito/edit?js,console)]
+ * Array copying II [[jsbin](https://jsbin.com/zahofin/edit?js,console)]
+ * Squares with map [[jsbin](https://jsbin.com/xiwumus/edit?js,console)]
+ * Sort [[jsbin](https://jsbin.com/reluhe/edit?js,console)]
+ * Filter [[jsbin](https://jsbin.com/teqogo/edit?js,console)]
+ * Find [[jsbin](https://jsbin.com/bomapu/edit?js,console)]
 
 ## 2.4.4
 
@@ -44,7 +44,7 @@ Arrays and loops drills.
 
  * max and min (without sort) [[js](2.4.4/max_min.js),[jsbin](https://jsbin.com/jifohik/edit?js,console)]
  * Compute the average [[js](2.4.4/average.js),[jsbin](https://jsbin.com/nilero/edit?js,console)]
- * FizzBuzz [[js](2.4.4/fizzbuzz.js),[jsbin](https://jsbin.com/fumogi/edit?js,console)]
+ * FizzBuzz [[js](2.4.4/fizzBuzz.js),[jsbin](https://jsbin.com/fumogi/edit?js,console)]
 
 ## 2.6.2
 
@@ -59,11 +59,11 @@ Object drills 1. [[js](2.4.2/objectDrills1.js)]
 
 Object drills 2. [[js](2.4.5/objectDrills2.js)]
 
- * Make student reports [[jsbin]()]
- * Enroll in summer school [[jsbin]()]
- * Find by id [[jsbin]()]
- * Validate object keys [[jsbin]()]
- * Todo list factory [[jsbin]()]
+ * Make student reports [[jsbin](https://jsbin.com/wopiduq/edit?js,console)]
+ * Enroll in summer school [[jsbin](https://jsbin.com/jetiyik/edit?js,console)]
+ * Find by id [[jsbin](https://jsbin.com/riwenen/edit?js,console)]
+ * Validate object keys [[jsbin](https://jsbin.com/guwopuc/1/edit?js,console)]
+ * Todo list factory [[jsbin](https://jsbin.com/ducuxiz/edit?js,console)]
 
 # Unit 3
 

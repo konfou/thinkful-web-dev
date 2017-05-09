@@ -1,12 +1,12 @@
 function createMyObject() {
-  object = {
+  var object = {
     foo: 'bar',
     answerToUniverse: 42,
     'olly olly': 'oxen free',
     sayHello: function() {
       return 'hello';
     }
-  }
+  };
   return object;
 }
 
@@ -23,7 +23,7 @@ function personMaker() {
     firstName: 'Paul',
     lastName: 'Jones',
     fullName: function() {
-      return this.firstName + ' ' + this.lastName
+      return this.firstName + ' ' + this.lastName;
     }
   };
   return person;
