@@ -69,6 +69,6 @@ Object drills 2. [[js](2.6.5/objectDrills2.js)]
 
 ## 3.1.3
 
- * Cat carousel [[jsbin]()]
- * Another Fizz Buzz [[jsbin]()]
- * Lightbulb toggle [[jsbin]()]
+ * Cat carousel [[js](3.1.3/catCarousel.js),[jsbin](https://jsbin.com/qecejuf/edit?js,output)]
+ * Another Fizz Buzz [[js](3.1.3/fizzBuzz2.js),[jsbin](https://jsbin.com/coxozez/edit?js,output),[live](https://output.jsbin.com/coxozez/)]
+ * Lightbulb toggle [[js](3.1.3/lightbulbToggle.js),[jsbin](https://jsbin.com/fugifum/edit?js,output),[live](https://output.jsbin.com/fugifum/)]
