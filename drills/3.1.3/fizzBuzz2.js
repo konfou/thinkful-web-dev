@@ -20,9 +20,7 @@ function fizzBuzz(countTo) {
 function makeFizzBuzz(countTo) {
   fizzBuzz(countTo).forEach(function(item) {
     var newItem = $(
-        '<div class="fizz-buzz-item"><span>' +
-        item +
-        '</span></div>'
+        '<div class="fizz-buzz-item"><span>' + item + '</span></div>'
     );
     if (['fizz','buzz','fizzbuzz'].includes(item)) {
       newItem.addClass(item);
@@ -34,8 +32,7 @@ function makeFizzBuzz(countTo) {
 function handleForm() {
   $('#number-chooser').submit(function(query) {
     $(".js-results").empty();
-    var choice = $(query.currentTarget).find(
-      '[name="number-choice"]').val();
+    var choice = $(query.currentTarget).find('[name="number-choice"]').val();
     makeFizzBuzz(choice);
   });
 }
