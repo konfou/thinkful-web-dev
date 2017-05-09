@@ -48,7 +48,7 @@ Arrays and loops drills.
 
 ## 2.6.2
 
-Object drills 1. [[js](2.4.2/objectDrills1.js)]
+Object drills 1. [[js](2.6.2/objectDrills1.js)]
 
  * Object creator [[jsbin](https://jsbin.com/qemoli/edit?js,console)]
  * Object updater [[jsbin](https://jsbin.com/wikozed/edit?js,console)]
@@ -57,7 +57,7 @@ Object drills 1. [[js](2.4.2/objectDrills1.js)]
 
 ## 2.6.5
 
-Object drills 2. [[js](2.4.5/objectDrills2.js)]
+Object drills 2. [[js](2.6.5/objectDrills2.js)]
 
  * Make student reports [[jsbin](https://jsbin.com/wopiduq/edit?js,console)]
  * Enroll in summer school [[jsbin](https://jsbin.com/jetiyik/edit?js,console)]

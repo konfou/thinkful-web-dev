@@ -54,40 +54,32 @@ function copyFirstHalf(array) {
 // Squares with map
 
 function squares(array) {
-  return array.map(
-    function(x) {
-        return x**2;
-    }
-  );
+  return array.map(function(x) {
+    return x**2;
+  });
 }
 
 // Sort
 
 function greatestToLeast(array) {
-  return array.sort(
+  return array.sort(function(a, b) {
     // compare function since array contains nums
-    function(a, b) {
-        return b - a;
-    }
-  );
+    return b-a;
+  });
 }
 
 // Filter
 
 function shortWords(array) {
-  return array.filter(
-    function(w) {
-        return w.length < 5;
-    }
-  );
+  return array.filter(function(w) {
+    return w.length < 5;
+  });
 }
 
 // Find
 
 function divisibleBy5(array) {
-  return array.find(
-    function(x) {
-        return x % 5 === 0;
-    }
-  );
+  return array.find(function(x) {
+    return x % 5 === 0;
+  });
 }
