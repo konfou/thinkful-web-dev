@@ -30,9 +30,9 @@ function makeFizzBuzz(countTo) {
 }
 
 function handleForm() {
-  $('#number-chooser').submit(function(query) {
+  $('#number-chooser').submit(function(event) {
     $(".js-results").empty();
-    var choice = $(query.currentTarget).find('[name="number-choice"]').val();
+    var choice = $(this).find('[name="number-choice"]').val();
     makeFizzBuzz(choice);
   });
 }

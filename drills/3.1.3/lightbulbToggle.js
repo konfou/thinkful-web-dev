@@ -1,7 +1,7 @@
 function lightbulbToggle() {
-  $('.lightbulb').click(function(bulb){
+  $('.lightbulb').click(function(event){
     $('.lightbulb').removeClass('bulb-on');
-    $(bulb.currentTarget).addClass('bulb-on');
+    $(this).addClass('bulb-on');
   });
 }
 

@@ -1,6 +1,6 @@
 function catCarousel() {
-  $('.thumbnail').click(function(thumb) {
-    var newHero = $(thumb.currentTarget).find('img').attr('src');
+  $('.thumbnail').click(function(event) {
+    var newHero = $(this).find('img').attr('src');
     $('.hero img').attr('src', newHero);
   })
 }
